@@ -1,0 +1,19 @@
+#include <iostream>
+#include <stdlib.h>
+#include <time.h>
+#include <math.h>
+
+using namespace std;
+
+int main()
+{
+    int amorce;
+    int n;
+    amorce=time(NULL);
+    srand(amorce);
+
+    n = rand() % 10000;
+    cout << n;
+
+    return 0;
+}

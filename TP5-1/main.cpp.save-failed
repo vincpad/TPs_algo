@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int factoriel(int n);
+
+int main()
+{
+    cout << factoriel(2) << endl;
+    return 0;
+}
+
+int factoriel(int n){
+    int r=1;
+    for(int i=1; i<n; i++){
+        r=r*i;
+    }
+    return r;
+}

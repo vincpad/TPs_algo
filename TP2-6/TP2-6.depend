@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411552416 source:c:\users\vincpad\documents\ensibs\algorithmique\tp2\tp2-6\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
