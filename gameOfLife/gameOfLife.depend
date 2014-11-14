@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1413992738 source:c:\users\cybervinc\documents\ensibs\algorithmique\gameoflife\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1415962803 source:c:\users\vincpad\documents\github\tps_algo\gameoflife\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
